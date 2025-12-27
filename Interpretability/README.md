@@ -1,8 +1,12 @@
 # Interpretability
 
----
+## Resources:
 
-## Project 1: Mech Interp Basics - Replicate Induction Heads
+- [AI Alignment](https://vkrakovna.wordpress.com/ai-safety-resources/#rfp)
+
+## Projects:
+
+### Project 1: Mech Interp Basics - Replicate Induction Heads
 
 Load GPT-2 Small/XL or Llama-3-8B. Implement basic Logit Lens: project residual stream at each layer to vocab space. Plot how predictions evolve on repeated token sequences (e.g., "A B C D A B C"). Compare raw Logit Lens vs Tuned Lens.
 
@@ -18,7 +22,7 @@ Resources:
 
 ---
 
-## Project 2: Logit/Tuned Lens Exploration
+### Project 2: Logit/Tuned Lens Exploration
 
 Take GPT-2 Small or Pythia-410M. Implement both Logit Lens and Tuned Lens on simple prompts. Plot layer-wise top-k predicted tokens and entropy trajectories. Experiment with ambiguous vs clear prompts and sycophantic prompts.
 
@@ -34,7 +38,7 @@ Resources:
 
 ---
 
-## Project 3: Activation Patching on a Known Circuit
+### Project 3: Activation Patching on a Known Circuit
 
 Replicate the Indirect Object Identification (IOI) task. Use TransformerLens for activation patching: identify heads that copy indirect objects, patch activations from clean to corrupted prompts, measure logit recovery. Visualize patching heatmaps.
 
@@ -50,7 +54,7 @@ Resources:
 
 ---
 
-## Project 4: Evaluate CoT Faithfulness on a Toy Task
+### Project 4: Evaluate CoT Faithfulness on a Toy Task
 
 Use Llama-3-8B or Mistral-7B. Generate CoT on simple arithmetic/biased questions. Compare final answer when forcing model to follow its own CoT vs zero-shot. Use Tuned Lens to see if truth tokens are predicted mid-model even when CoT diverges.
 
@@ -66,7 +70,7 @@ Resources:
 
 ---
 
-## Project 5: Sycophancy Detection and Probing
+### Project 5: Sycophancy Detection and Probing
 
 Curate 50-100 sycophancy prompts. Generate responses with/without CoT. Use Tuned Lens to inspect layer-wise predictions: does the model internally predict truth early but pivot late? Basic patching from truthful control prompt into sycophantic prompt.
 
@@ -82,7 +86,7 @@ Resources:
 
 ---
 
-## Project 6: Prototype a Simple IED Metric
+### Project 6: Prototype a Simple IED Metric
 
 Combine all above on Llama-3-8B with sycophancy dataset. Define truth token via contrastive control runs. Compute per-token KL between mid-layer Tuned Lens logits and final generated token probs. Plot average IED per layer and correlate with CoT length. Try basic patching to locate pivot layers.
 
