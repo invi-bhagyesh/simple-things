@@ -3,8 +3,22 @@
 ## Resources:
 
 - [AI Alignment](https://vkrakovna.wordpress.com/ai-safety-resources/#rfp)
+- [Neel Nanda Gloassary](https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J)
+- [Transformer Lens](https://github.com/TransformerLensOrg/TransformerLens?tab=readme-ov-file)
+- [200 Problems](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability#Overview_of_Sequence) || [excel sheet](https://docs.google.com/spreadsheets/d/1oOdrQ80jDK-aGn-EVdDt3dg65GhmzrvBWzJ6MUZB8n4/edit?gid=0#gid=0)
 
-## Projects:
+### Misc:
+
+- [Algoverse Challenge Sheet](https://docs.google.com/document/d/1WKegfb7hPRVAuiRiAsLmxd8AHlOszRUxdauRPePtZAU/edit?tab=t.0)
+
+## Transformer-lens
+
+- Demo
+  <a target="_blank" href="https://colab.research.google.com/github/TransformerLensOrg/TransformerLens/blob/main/demos/Main_Demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
+## Ideas:
 
 ### Project 1: Mech Interp Basics - Replicate Induction Heads
 
@@ -18,7 +32,10 @@ Resources:
 
 - [TransformerLens docs](https://neelnanda-io.github.io/TransformerLens/)
 - [ARENA Chapter 1](https://arena3-chapter1-transformer-interp.streamlit.app/)
-- [Induction Heads Notebook](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb)
+- Induction Heads Notebook
+  <a target="_blank" href="https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
 ---
 
@@ -48,7 +65,10 @@ Time: 2-3 weeks
 
 Resources:
 
-- [TransformerLens IOI demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Activation_Patching_in_TL_Demo.ipynb)
+- TransformerLens IOI demo
+  <a target="_blank" href="https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Activation_Patching_in_TL_Demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 - [IOI Paper](https://arxiv.org/abs/2211.00593)
 - [Neel Nanda YouTube](https://www.youtube.com/c/neaborman)
 
