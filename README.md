@@ -28,7 +28,8 @@
 #### This page documents the same online identity across platforms.
 
 - Codeforces handle:
-  auioeyesir_klatotemesaelhttps://www.instagram.com/auioeyesir_klatotemesaelp/
+  auioeyesir_klatotemesael  
+  https://www.instagram.com/auioeyesir_klatotemesaelp/
 - Instagram username:
   auioeyesir_klatotemesaelp
   https://codeforces.com/profile/auioeyesir_klatotemesael
