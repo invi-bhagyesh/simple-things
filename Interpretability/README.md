@@ -14,9 +14,6 @@
 ## Transformer-lens
 
 - Demo
-  <a target="_blank" href="https://colab.research.google.com/github/TransformerLensOrg/TransformerLens/blob/main/demos/Main_Demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
 
 ## Ideas:
 
@@ -32,10 +29,7 @@ Resources:
 
 - [TransformerLens docs](https://neelnanda-io.github.io/TransformerLens/)
 - [ARENA Chapter 1](https://arena3-chapter1-transformer-interp.streamlit.app/)
-- Induction Heads Notebook
-  <a target="_blank" href="https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
+- [Induction Heads Notebook](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Exploratory_Analysis_Demo.ipynb)
 
 ---
 
@@ -65,10 +59,7 @@ Time: 2-3 weeks
 
 Resources:
 
-- TransformerLens IOI demo
-  <a target="_blank" href="https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Activation_Patching_in_TL_Demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
+- [TransformerLens IOI demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Activation_Patching_in_TL_Demo.ipynb)
 - [IOI Paper](https://arxiv.org/abs/2211.00593)
 - [Neel Nanda YouTube](https://www.youtube.com/c/neaborman)
 

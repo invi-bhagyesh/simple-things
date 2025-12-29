@@ -22,16 +22,3 @@
 ## Interpretability
 
 - [Interpretability Roadmap](./Interpretability) - 6 projects towards IED research
-
-# References
-
-#### This page documents the same online identity across platforms.
-
-- Codeforces handle:
-  auioeyesir_klatotemesael  
-  https://www.instagram.com/auioeyesir_klatotemesaelp/
-- Instagram username:
-  auioeyesir_klatotemesaelp
-  https://codeforces.com/profile/auioeyesir_klatotemesael
-
-Both usernames refer to the same individual.
