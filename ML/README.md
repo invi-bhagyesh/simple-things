@@ -1,6 +1,22 @@
 # ML Practice Template
 
-## Progress Tracker
+## Reading List
+
+> **Status:** `-` Not read | `WIP` In progress | `DONE` Completed
+
+| Status | Resource                                                                   |
+| ------ | -------------------------------------------------------------------------- |
+| -      | [Two Pug - ML Interview Prep](https://twopug.com/interview-prep-ml-grind/) |
+| -      | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)              |
+| -      | [RoFormer: RoPE](https://arxiv.org/abs/2104.09864)                         |
+| -      | [GQA Paper](https://arxiv.org/abs/2305.13245)                              |
+| -      | [Speculative Decoding](https://arxiv.org/abs/2211.17192)                   |
+| -      | [Megatron-LM (Tensor Parallelism)](https://arxiv.org/abs/1909.08053)       |
+| -      | [cheatsheet.md](cheatsheet.md)                                             |
+
+---
+
+## Status
 
 | #   | Topic                 | File                                   | Status | Last Practice |
 | --- | --------------------- | -------------------------------------- | ------ | ------------- |
@@ -10,17 +26,15 @@
 | 4   | KV Cache              | [04_kv_cache.py](04_kv_cache.py)       | -      | -             |
 | 5   | Parallelism (TP/DP)   | [05_parallelism.py](05_parallelism.py) | -      | -             |
 
-**Legend:** `-` Not started | `WIP` In progress | `DONE` Confident
-
 ---
 
 ## Implementation Methods
 
-- Get exercise + test cases + scaffold from chatbot
-- Implement using only **NumPy + stdlib**
-- First attempts: small nudges allowed
-- Later: no references, grind it out
-- Validate with chatbot feedback
+1. Get exercise + test cases + scaffold from chatbot
+2. Implement using only **NumPy + stdlib**
+3. First attempts: small nudges allowed
+4. Later: no references, grind it out
+5. Validate with chatbot feedback
 
 ---
 
@@ -34,15 +48,3 @@
 | KV Cache             | Prefill vs decode, memory layout |
 | Speculative Decoding | Draft + verify, speedup analysis |
 | Continuous Batching  | Dynamic batch scheduling         |
-
----
-
-## References
-
-- [Two Pug](https://twopug.com/interview-prep-ml-grind/) (pending)
-- [cheatsheet.md](cheatsheet.md) - Shapes & FLOPs quick reference
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [RoFormer: RoPE](https://arxiv.org/abs/2104.09864)
-- [GQA Paper](https://arxiv.org/abs/2305.13245)
-- [Speculative Decoding](https://arxiv.org/abs/2211.17192)
-- [Megatron-LM (Tensor Parallelism)](https://arxiv.org/abs/1909.08053)
