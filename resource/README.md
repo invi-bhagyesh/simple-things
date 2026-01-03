@@ -1,1 +1,3 @@
 - [Alex Turner](https://turntrout.com/open-source): development environment setup
+- [Shaw Talebi](https://github.com/ShawhinT/YouTube-Blog): Github | [LLM](https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0)
+- System Design: [book](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)

@@ -15,6 +15,8 @@
 
 - Demo
 
+---
+
 ## Ideas:
 
 ### Project 1: Mech Interp Basics - Replicate Induction Heads

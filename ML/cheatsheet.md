@@ -3,7 +3,7 @@
 ## MLP
 
 ```
-x: (B, D_in)
+, x: (B, D_in)
 W1: (D_in, H) → z1 = x @ W1 + b1
 a1 = ReLU(z1): (B, H)
 W2: (H, D_out) → out = a1 @ W2 + b2
