@@ -1,24 +1,28 @@
-# Projects
+# simple-things
 
-## GAN
+A collection of ML learning, practice, and research experiments.
 
-- [GAN](./Tutorial/GAN) - GAN implementation
+---
 
-## Computer Vision
+| Folder                                 | Description                                     |
+| -------------------------------------- | ----------------------------------------------- |
+| [ARENA_3.0](./ARENA_3.0)               | Transformer interpretability curriculum         |
+| [CP](./CP)                             | Competitive programming (CF, CodeChef, AtCoder) |
+| [Coding](./Coding)                     | General coding practice                         |
+| [Interpretability](./Interpretability) | Mechanistic interpretability projects           |
+| [ML](./ML)                             | Core exercises (MLP, Attention, RoPE, KV Cache) |
+| [Tutorial](./Tutorial)                 | GAN, Face-landmark, Fake-News, tic-tac          |
 
-- [Face-landmark](./Tutorial/Face-landmark) - Face landmark detection
-- [image-studio](https://github.com/invi-bhagyesh/image-studio) - Image processing tool
-- [TopoReformer](https://github.com/invi-bhagyesh/TopoReformer) - Mitingating Adversarial attacks using Persistence Homology
+---
 
-## NLP
+**External**
 
-- [Fake-News-detection](./Tutorial/Fake-News-detection) - Fake news classification
-- [LM-quant](https://github.com/invi-bhagyesh/LM-quant)
+| Project                                                       | Description                                     |
+| ------------------------------------------------------------- | ----------------------------------------------- |
+| [image-studio](https://github.com/invi-bhagyesh/image-studio) | Image processing tool                           |
+| [TopoReformer](https://github.com/invi-bhagyesh/TopoReformer) | Adversarial robustness via Persistence Homology |
+| [LM-quant](https://github.com/invi-bhagyesh/LM-quant)         | Language model quantization                     |
 
-## Games
+---
 
-- [tic-tac](./Tutorial/tic-tac) - Tic-Tac-Toe game
-
-## Interpretability
-
-- [Interpretability Roadmap](./Interpretability) - 6 projects towards IED research
+> _See [status.md](./status.md) for progress._
